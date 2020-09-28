@@ -4,6 +4,10 @@
 
 <h3 align="center">goFinances - rest api para gerenciar transações financeiras desenvolvida com Node.js, express, typeorm e postgres.</h3>
 
+
+[![Run in Insomnia}](https://insomnia.rest/images/run.svg)](https://insomnia.rest/run/?label=goFinances&uri=https%3A%2F%2Fraw.githubusercontent.com%2Frodrigosakamoto%2Fgofinances-api%2Fmaster%2FInsomnia.json)
+
+
 ## 🚀 Features
 - Cadastrar transação
 - Listar transação
